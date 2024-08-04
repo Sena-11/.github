@@ -7,7 +7,6 @@
 - [Acerca de Sena 11](#acerca-de-sena-11)
 - [Nuestro Proyecto Principal](#nuestro-proyecto-principal)
 - [Cómo Contribuir](#cómo-contribuir)
-- [Contacto](#contacto)
 
 ## Acerca de Sena 11
 
