@@ -25,7 +25,7 @@ Sena 11 es una organización enfocada en brindar apoyo y recursos a los aprendic
 - **Sistema de Comentarios**: Implementación de un sistema de comentarios para fomentar la interacción en los blogs.
 - **Integración con GitHub Pages**: Automatización del despliegue del frontend desarrollado por los usuarios en GitHub Pages.
 
-**Tecnologías Utilizadas**: Node.js, Express, MongoDB, React.
+**Tecnologías Utilizadas**: Node.js, Express, SQL.
 
 ## Cómo Contribuir
 
