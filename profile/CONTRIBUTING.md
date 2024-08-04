@@ -17,14 +17,14 @@
    ```
 4. **Realiza tus cambios**: Realiza los cambios necesarios en el código. Asegúrate de seguir los estándares de codificación y de incluir comentarios claros y descriptivos.
 5. **Realiza commits con mensajes descriptivos**:
-  ```sh
-  git add .
-  git commit -m "Descripción clara de los cambios realizados"
-  ```
+     ```sh
+     git add .
+     git commit -m "Descripción clara de los cambios realizados"
+     ```
 6. **Envía tus cambios al repositorio remoto**:
-  ```sh
-  git push origin nombre-rama
-  ```
+     ```sh
+     git push origin nombre-rama
+     ```
 7. **Abre una Pull Request**: Ve al repositorio original y abre una nueva Pull Request. Describe los cambios realizados y por qué son necesarios.
 
 ## Estándares de Codificación
